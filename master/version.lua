@@ -1,5 +1,5 @@
 if Version == '2.8' then
-    warn("congrats you're using the correct version!")
+    --Why wouldn't you be using the correct version sus...
 else
     game:Shutdown()
 end
