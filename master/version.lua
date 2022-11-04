@@ -1,6 +1,5 @@
-if getgenv().Version == 'v2.8' then
-    print("sussy cheats activated")
+if Version == '2.8' then
+    warn("congrats you're using the correct version!")
 else
-    print("wow you're so unsexy if you're gonna skid go use galaxy 😭😭😭😭😭😭")
     game:Shutdown()
 end
