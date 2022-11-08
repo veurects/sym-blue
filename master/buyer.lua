@@ -1,4 +1,5 @@
 local BuyerList = {
   'YOSXF_34',
-  'zMiIIennium'
+  'zMiIIennium',
+  'x_Axenicio'
 };
